@@ -8,7 +8,6 @@ function whisper(string) {
 
 
 function logShout(string) {
-<<<<<<< HEAD
   console.log(string.toUpperCase());
 }
 logShout("hello");
@@ -27,8 +26,7 @@ function sayHiToGrandma(string) {
     return "I love you, too.";
   }
 }
-=======
-  return string.toUpperCase
+  return string.toUpperCase;
 }
 console.log(string);
->>>>>>> 65cc81f2e848a0332da6abac4c9962c18fd2c7de
+
